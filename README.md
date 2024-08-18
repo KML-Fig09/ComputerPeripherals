@@ -1,6 +1,15 @@
 # YOLOv5 Computer Peripherals Object Detection
 
+**This model is a custom YOLOv5 Object Detection model. I am using what I learned from building this model to create an optimised object detection model for the final project of my MSc. Though this project earned a distinction, there's plenty to improve on too. Going forward, I am now improving my handling of datasets (now using and augmenting multiple), as well as developing a usable application and further 3D reconstruction of the detected objects. 
+
 This repository contains the Jupyter Notebook titled **"YOLOV5_ObjectDetection.ipynb"**. This notebook was developed in **Google Colab** and is intended to be run within that environment.
+
+## Contents
+
+1. Notebook including model etc.
+2. Test video for inference (creator acknowleged in this README)
+3. This README.
+4. requirements.txt file.
 
 ## Overview
 
@@ -50,3 +59,11 @@ If you prefer to run this notebook in a different environment (e.g., Jupyter Not
 ## Contributing
 
 Feel free to submit a pull request or open an issue if you find any bugs or have suggestions for improvements.
+
+## Acknowlegments 
+
+icyJL, 2024. Valorant RANK 1 Radiant Setup Tour. [Online Video]. Available at: 
+https://www.youtube.com/watch?v=zMl2Rie4SDc&t=22s [Accessed June 05, 2024]. 
+
+Roboflow (2024) Raava Dataset. Available at: https://universe.roboflow.com/mouse
+2lugf/raava/dataset/1 (Accessed: 01 June 2024) 
