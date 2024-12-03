@@ -1,6 +1,6 @@
-# YOLOv5 Computer Peripherals Object Detection
+# Pilot Project: YOLOv5 Computer Peripherals Object Detection
 
-**This model is a custom YOLOv5 Object Detection model. I am using what I learned from building this model to create an optimised object detection model for the final project of my MSc. Though this project earned a distinction, there's plenty to improve on too. Going forward, I am now improving my handling of datasets (now using and augmenting multiple), as well as developing a usable application and further 3D reconstruction of the detected objects. 
+**This pilot project develops a YOLOv5 Object Detection model for detecting computer peripherals in Twitch streams. The successes and failures of this project contribute extensively to the progress of an advanced YOLOv5 model, with custom CBAM module, created as a final project contributing to my Master of Science. Though this project earned a distinction, there's plenty to improve on too. The primary issue with this model was the data, or lack thereof, it was trained on. Additionally, a lack of vision regardings steps which were applied afterwards. These are handled in the final project, also found on this Github, by preprocessing, combining, and augmenting 7 different Roboflow datasets for training - as well as developing a tracking (Norfair) and Segmentation (SAM) pipeline post-detections. 
 
 This repository contains the Jupyter Notebook titled **"YOLOV5_ObjectDetection.ipynb"**. This notebook was developed in **Google Colab** and is intended to be run within that environment.
 
